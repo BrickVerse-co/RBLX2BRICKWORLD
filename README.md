@@ -9,7 +9,7 @@ It converts map dynamics like Parts, Lights, etc.
 * RBLXLuau2BrickLua (https://github.com/BrickVerse-co/RBLXLuau2BrickLua)
 
 # List of supported dynamics
-| First Header  | Second Header |
+| Supported  | Instance |
 | ------------- | ------------- |
 | ❌  | Terrain  |
 | ✅  | ScriptDynamic  |
