@@ -7,6 +7,7 @@ It converts map dynamics like Parts, Lights, etc.
 * TypeScript (https://www.typescriptlang.org)
 * NodeJS (https://nodejs.org/en)
 * RBLXLuau2BrickLua (https://github.com/BrickVerse-co/RBLXLuau2BrickLua)
+* rbxlx-parser by Jhxan & RAMPAGE Interactive (https://github.com/RAMPAGELLC/rbxlxparser)
 
 # List of supported dynamics
 | Supported  | Instance |
